@@ -3,7 +3,12 @@ This is a collection of C++ projects exploring many aspects of object-oriented p
 What is learned is each module is normally re-used in the ones after, and the last exercise is often a summation of what came before.
 <br>
 <br>
-For a more advanced project about creating containers, you can go to my other <a href="https://github.com/Fousse24/container">container</a> repository.
+For a more advanced project about creating containers in C++, you can go to my other <a href="https://github.com/Fousse24/container">repository</a>.
+
+### Notable exercises
+- [Claptrap](CPP03/ex03) (Inheritance and Diamond problem)
+- [AMateria](CPP04/ex03) (Object Factory, Interfaces/Abstract classes)
+- [Intern](CPP05/ex03) (Exceptions and everything else)
 
 ### CPP00
 This one is mainly to help transition our C habits and knowledge to C++. So using C++ functions rather than C when possible!
