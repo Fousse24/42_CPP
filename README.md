@@ -9,49 +9,58 @@ For a more advanced project about creating containers in C++, you can go to my o
 - [Claptrap](CPP03/ex03) (Inheritance and Diamond problem)
 - [AMateria](CPP04/ex03) (Object Factory, Interfaces/Abstract classes)
 - [Intern](CPP05/ex03) (Exceptions and everything else)
+---
 
-### CPP00
-This one is mainly to help transition our C habits and knowledge to C++. So using C++ functions rather than C when possible!
+### [CPP00](CPP00)
+- Introduction and transition from C to C++ (aka using less C functions and more C++ functions when possible)
+---
 
-### CPP01
+### [CPP01](CPP01)
   - Memory allocation
   - Reference and pointers to members
   - Usage of the switch in CPP
+---
 
-### CPP02
+### [CPP02](CPP02)
   - Ad-hoc polymorphism
   - Overloads
   - Orthodox canonical classes
- 
-### CPP03
+---
+
+### [CPP03](CPP03)
   - Inheritance;
   - "<a href="https://en.wiktionary.org/wiki/diamond_problem">Diamond</a>" problem
- 
-### CPP04
-  - Subtype polymorphism
+---
+
+### [CPP04](CPP04)
+  - Subtype polymorphism (virtual functions and such)
   - Abstract classes / interfaces
-
-### CPP05
-  - Try/Catch
+---
+### [CPP05](CPP05)
+  - Try/Catch<br>
   - Creating custom exceptions
+---
 
-### CPP06
+### [CPP06](CPP06)
   - static_cast
   - reinterpret_cast
   - dynamic_cast
+---
 
-### CPP07
+### [CPP07](CPP07)
   - Templates
-    1. functions
-    2. mock iterator
-    3. custom class template Array
+    * Functions
+    * Mock iterator
+    * Custom class template Array
+---
 
-### CPP08
+### [CPP08](CPP08)
   - Templates
-    1. Function taking a templated container
-    2. Create a templated Span container with some functions
-    3. Create a templated MutantStack which inherit std::stack
-    
+    * Function taking a templated container
+    * Create a templated Span container with some functions
+    * Create a templated MutantStack which inherit std::stack
+---
+
 ### Final C++ project : [ft_containers](https://github.com/Fousse24/container)
 In depth exploration of templates and std::containers.
  
